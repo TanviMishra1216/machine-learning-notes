@@ -1,2 +1,2 @@
 # machine-learning-notes
-notes, that's all : )
+notes, that's all :)
