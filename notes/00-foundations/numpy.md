@@ -197,9 +197,7 @@ Machine-learning models use structures like these to process many observations a
 
 Libraries such as pandas, scikit-learn, TensorFlow, and PyTorch also rely heavily on NumPy-style arrays and numerical operations.
 
-## Main Benefits of NumPy
-
-NumPy is useful because it:
+## Benefits of using NumPy
 
 * performs numerical calculations efficiently
 * works with large arrays and matrices
@@ -207,18 +205,10 @@ NumPy is useful because it:
 * provides many built-in mathematical functions
 * forms the foundation of many data-science and machine-learning libraries
 
-## What I Should Remember
+## TLDR
 
-NumPy is a Python library designed for numerical computing.
+NumPy is a Python library designed for numerical computing.Its main data structure is the NumPy array,
+which makes it possible to store and calculate with large amounts of numerical data efficiently.
+The biggest idea to remember is that NumPy lets me perform operations on entire arrays instead of 
+processing each value individually.
 
-Its main data structure is the NumPy array, which makes it possible to store and calculate with large amounts of numerical data efficiently.
-
-The biggest idea to remember is that NumPy lets me perform operations on entire arrays instead of processing each value individually.
-
-## Review Questions
-
-1. What does NumPy stand for?
-2. How is a NumPy array different from a Python list?
-3. What is vectorization?
-4. What does an array's `shape` tell us?
-5. Why are arrays important in machine learning?
